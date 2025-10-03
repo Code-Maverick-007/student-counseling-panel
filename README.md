@@ -2,7 +2,7 @@
 
 A React-based web application built for Smart India Hackathon (SIH) that provides personalized career guidance, college discovery, and AI-powered counseling for students.
 
-🔗 Live Demo: https://careersarthi.vercel.app/
+🔗 Live Demo: https://career-sarthi-six.vercel.app/
 
 ______________________________________________________________________________________________________________________________________________
 
